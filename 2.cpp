@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-	freopen ("archivo.txt", "r", stdin);
+	freopen ("file.txt", "r", stdin);
 	char cadena;
 	while ((cadena = getchar ())!= EOF)
 	{
