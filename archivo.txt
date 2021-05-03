@@ -1,0 +1,6 @@
+funcion operaciones basicas
+	suma 4 + 5
+	resta 723 - 23
+	multiplicacion 345 * 2
+	divicion 234 / 1
+fin
